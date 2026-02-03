@@ -40,5 +40,5 @@ The project uses multiple CSV files including:
 - `Farmers_Dashboard.pbix` → Power BI dashboard file
 
 ## 👤 Author
-GK  
+Gaurav Kumar Jha
 (Data Analyst | Power BI | SQL | Python)
