@@ -4,7 +4,7 @@
 This project analyzes farmer market transactional data to uncover insights into product sales, customer behavior, vendor performance, and inventory distribution using **Power BI**.
 
 ## 📊 Dashboard Preview
-![Dashboard](Dashboard_Image.png)
+![Dashboard](Farmers'_Dashboard.pbix)
 
 
 ## 🛠 Tools & Technologies
