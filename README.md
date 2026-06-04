@@ -30,8 +30,6 @@ The project uses multiple CSV files including:
 - Vendor and product performance analysis
 - Interactive dashboards with filters and drill-downs
 
-## 📈 Dashboard Preview
-*(Add screenshots of your Power BI dashboard here)*
 
 ## 🚀 Key Insights
 - Identified top-performing vendors and products
